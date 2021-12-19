@@ -1,5 +1,14 @@
 # binance bot
-binance bot, es un codigo escrito en nodejs, la cual permite comprar y vender criptomonedas de forma automatica, basado en los algoritmos de rsi y sotchastic rsi.
+binance bot, es un codigo escrito en nodejs, el cual permite comprar y vender criptomonedas de forma automatica, basado en los algoritmos de rsi y sotchastic rsi.
+
+# caracteristicas
+-cuenta con una lista con mas de 20 cryptos (se puede modificar)
+
+-trading con multiples cuentas conectadas en simultaneo
+
+-trading con multples cryptomonedas en simultaneo
+
+-notificacion a traves de gmail
 
 # screen shots
 grafica de bitcoin vs theter
