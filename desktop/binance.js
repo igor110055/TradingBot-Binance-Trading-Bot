@@ -2,8 +2,8 @@ const { exec } = require("child_process");
 
 const Binance = require('node-binance-api'); 
 const binance = new Binance().options({ 
-	APIKEY: 	'Gf0MZqFZXzoiu2GUA6LeUfqD2K9QzW1otYO3M7ErdNERt5gHMcUI5oYiyxl5fU6p', 
-	APISECRET: 	'fnQnZPeJaeOYVhedgIm9pmEWXsxI8oSY7MZU2POZ62lEhNmjKnOR7fXQ9vZ8Sb1Z'
+	APIKEY: 	'APIKEY', 
+	APISECRET: 	'APISECRET'
 });
 
 getAllLastPrices = async () => {
