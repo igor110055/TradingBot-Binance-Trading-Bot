@@ -3,7 +3,7 @@ Buy and Sell Cryptos Automaticaly.
 
 # Features
 
--trade with multples cryptos simultaneusly
+-trade with multple cryptos simultaneusly
 
 -Based on RSI and IA Algorithms
 
