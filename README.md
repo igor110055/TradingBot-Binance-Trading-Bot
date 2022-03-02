@@ -1,5 +1,5 @@
 # binance bot
-Buy and Sell Cryptos Automaticaly.
+Buy and Sell Cryptos Automaticaly on Binance.
 
 # Features
 
