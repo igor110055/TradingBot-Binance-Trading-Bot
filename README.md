@@ -1,9 +1,9 @@
 # binance bot
-Buy and Sell Cryptos Automaticaly on Binance.
+Buy and Sell Cryptos Automaticaly in Binance.
 
 # Features
 
--trade with multple cryptos simultaneusly
+-trade with multiple cryptos simultaneously
 
 -Based on RSI and IA Algorithms
 
